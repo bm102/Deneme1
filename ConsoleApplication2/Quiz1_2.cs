@@ -66,6 +66,7 @@ namespace ConsoleApplication2
             else return basamakSayisi(sayi / 10) + 1; 
         }
 
+
     }
 
 
